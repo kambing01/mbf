@@ -1,8 +1,37 @@
-![IMG_20220223_082646](https://user-images.githubusercontent.com/92802033/155248148-ace10697-2690-496f-80a3-e010d69adca1.jpg)
-![IMG_20220224_114823](https://user-images.githubusercontent.com/92802033/155460012-b2fb0940-46c9-4d00-8576-32df694deed6.jpg)
+### Menu & Fitur Crack
+![IMG_20220123_015205](https://user-images.githubusercontent.com/92802033/150651709-758ecee7-0d28-42f4-86cd-b6cb12762e30.jpg)
 
+### Installation
+- [ ] pkg update [&&]() pkg upgrade
+
+- [ ] pkg install python2 git
+
+- [ ] pip2 install requests mechanize
+
+- [ ] pip2 install futures bs4
+
+- [ ] git clone https://github.com/AngCyber/Crack
+
+- [ ] cd Crack
+
+- [ ] ls  [(Huruf "L" Kecil)]()
+
+- [ ] git pull 
+
+- [ ] python2 Multi_BF.py
+
+### Results/Hasil
+![Screenshot_2022-01-23-01-30-43-06](https://user-images.githubusercontent.com/92802033/150651735-1715a932-060f-4d47-9407-65a8bc2a5ca2.jpg)
 
 
 ### Donasi
+- Dana  : [089514620695]()
+- Pulsa : [089514620695]()
+
+### Contact Me
+- WhatsApp : [089514620695]()
+- Youtube : [Yann gaming]()
+- Facebook : [Yann Sesi]()
+![python-logo-1](https://user-images.githubusercontent.com/92802033/153346252-b3d53c2e-d347-4f37-9e4a-e052a5e4641f.gif)
 
 
